@@ -1,4 +1,2 @@
-Past Owner And Founder Of Internal Netork Known as ./isis or isis
-networking | Cyber Sec | C# - Python
-
-
+Networking - Cyber sec - Reverse Engineering - Other+
+C# - Python / Proj - Axis Services - Internal Networks 
